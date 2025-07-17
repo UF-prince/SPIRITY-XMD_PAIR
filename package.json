@@ -4,11 +4,13 @@
   "description": "A multi functional whatsapp bot Web paircode.",
   "main": "index.js",
   "scripts": {
+    "build": "expo export -p web",
     "start": "pm2 start index.js --deep-monitoring --attach --name megalodon-md",
     "stop": "pm2 stop megalodon-md",
     "restart": "pm2 restart megalodon-md"
   },
   "dependencies": {
+    "expo": "^50.0.0",
     "@whiskeysockets/baileys": "github:DybyTech/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode": "^1.5.3",
@@ -21,5 +23,9 @@
     "megajs": "1.1.7",
     "pm2": "^5.4.0",
     "async-mutex": "0.4.1"
+  },
+  "devDependencies": {
+    "expo-cli": "^6.3.0"
   }
 }
+
