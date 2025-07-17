@@ -131,7 +131,7 @@ _𝙳𝚘𝚗'𝚝 𝙵𝚘𝚛𝚐𝚎𝚝 𝚃𝚘 𝙶𝚒𝚟𝚎 𝚂𝚝�
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " 𝖒𝖉 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
+title: " spirity-connecté ✅  ",
 thumbnailUrl: "https://files.catbox.moe/zmhz85.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i",
 mediaType: 2,
