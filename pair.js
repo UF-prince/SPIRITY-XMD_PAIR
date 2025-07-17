@@ -101,7 +101,7 @@ _𝙳𝚘𝚗'𝚝 𝙵𝚘𝚛𝚐𝚎𝚝 𝚃𝚘 𝙶𝚒𝚟𝚎 𝚂𝚝�
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "MEGALODON-MD",
+title: "spirity-xmd",
 thumbnailUrl: "https://files.catbox.moe/zmhz85.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i",
 mediaType: 1,
@@ -117,7 +117,7 @@ renderLargerThumbnail: true
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "Ladybug-MD",
+title: "spirity-xmd",
 thumbnailUrl: "https://files.catbox.moe/zmhz85.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i",
 mediaType: 2,
